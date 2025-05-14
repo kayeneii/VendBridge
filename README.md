@@ -39,7 +39,7 @@ The following tools were used in the creation of this report.
 
   * Dashboard Creation: Following the analysis, cards and line charts were used to visually present an interactive dashboard of the summarized data.
 
-3. **GitHUb:** For,
+3. **GitHub:** For,
    - Portfolio Building
    - Communication
 
@@ -54,6 +54,6 @@ The following tools were used in the creation of this report.
 
 ### Conclusion
 ---
-You made it to the end of the customer churn analysis.🥳
+You made it to the end of the user engagement analysis.🥳
 Until my next report, you may find me [here.](https://www.linkedin.com/in/kayeneii/) I look forward to hearing from you.😄
 
